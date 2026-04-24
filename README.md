@@ -124,7 +124,7 @@
 - [Kubernetes](https://kubernetes.io/) – Unified orchestration layer for running workloads across clouds.
 - [Crossplane](https://crossplane.io/) – Control plane for provisioning cloud services using Kubernetes.
 - [HashiCorp Consul](https://www.consul.io/) – Service mesh and discovery across cloud and hybrid environments.
-- [KubeStellar Console](https://github.com/kubestellar/console) – Open source AI-powered multi-cluster Kubernetes dashboard for hybrid edge and cloud environments, with real-time observability and 20+ CNCF integrations (Argo, Kyverno, Prometheus, Grafana, Istio, Flux, Falco). CNCF Sandbox project (Apache 2.0).
+- [KubeStellar Console](https://github.com/kubestellar/console) – Open source multi-cluster Kubernetes dashboard for managing hybrid and multi-cloud environments, with centralized control and observability. Part of a CNCF Sandbox project.
 - [Spinnaker](https://spinnaker.io/) – Multi-cloud continuous delivery platform for large-scale deployments.
 - [Anthos (Google Cloud)](https://cloud.google.com/anthos) – Hybrid and multi-cloud application modernization suite.
 - [Azure Arc](https://azure.microsoft.com/services/azure-arc/) – Extend Azure management to hybrid and multi-cloud environments.
